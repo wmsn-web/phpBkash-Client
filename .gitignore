@@ -1,0 +1,4 @@
+/vendor/
+
+# Composer’s lock file is important! Commit this:
+!composer.lock
